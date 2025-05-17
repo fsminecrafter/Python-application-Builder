@@ -24,3 +24,9 @@ Python3 BuilderV1 ./JumpingFrogs --linux --arch x64 arm64 --version 1.6 --name J
 Created package {:path=>"test_1.6_x64.deb"}
 
 [*] Build completed. Output at /Builds/code/BuilderV1/executables
+
+## Untested features
+
+Automatic icon finding and attaching
+
+Building for windows
